@@ -13,10 +13,11 @@ Like the colonies that give it its name, Asquilín is small, persistent and quie
 
 ## Features
 - Serif typeface
-- Variable axes: Weight and Optical Size
+- Variable axes: Weight and Optical Size **wip**
 - True italics
 - Optimized for compact sizes, but still cute
 - Extended character set
+- Tabular & Oldstyle numerals
 - Basic Latin
 - Latin Extended — Western Europe
 - Latin Extended — Central Europe
